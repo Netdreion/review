@@ -1,4 +1,5 @@
 import { useState } from "react";
+import Review from "./Review";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
           <h2> our reviews </h2>
           <div className="underline "></div>
         </div>
+        <Review />
       </section>
     </>
   );

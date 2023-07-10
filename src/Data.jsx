@@ -1,4 +1,4 @@
-const reviews = [
+const people = [
   {
     id: 1,
     name: "Susan Smith",
@@ -35,3 +35,5 @@ const reviews = [
     text: "From the moment I started using this product, it was clear that it was designed with UX/UI designers in mind. The attention to detail and the thought put into every aspect of the user experience is truly commendable. The range of design tools and assets available is extensive, allowing me to bring my creative visions to life effortlessly. The collaboration features have made it easier for me to work with clients and stakeholders, streamlining the feedback and approval process. If you're a UX/UI designer looking for a powerful and intuitive toolset, look no further!",
   },
 ];
+
+export default people;
